@@ -1,6 +1,6 @@
 # Condiciones y ciclos con Python   
 <p align="center">
-  <img width="200" height="200" src="https://img2.freepng.es/20180410/rze/kisspng-ninja-computer-programming-learning-study-skills-avatar-5acd61df554968.2443493915234093753493.jpg">
+  <img width="200" height="200" src="https://tse4.mm.bing.net/th?id=OIP.Qs8UK-fPKI0sxCnNxS30xQHaHn&pid=Api&P=0">
 </p>
 
 * Desarrollo de Software CESDE   
